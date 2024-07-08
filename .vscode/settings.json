@@ -1,0 +1,6 @@
+{
+  "terminal.integrated.commandsToSkipShell": [
+    "github.copilot.terminal.suggestCommand",
+    "{   \"emmet.includeLanguages\": {     \"javascript\": \"javascriptreact\"   },   \"emmet.triggerExpandOption\": \"tab\" }"
+  ]
+}
